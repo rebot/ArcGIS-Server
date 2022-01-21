@@ -1,0 +1,4 @@
+.env
+.dockerignore
+
+assets/db/*
